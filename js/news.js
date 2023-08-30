@@ -98,3 +98,4 @@ const GetNewsCategoryId = async (GetId) => {
 
 }
 LodeNews()
+GetNewsCategoryId("02")
